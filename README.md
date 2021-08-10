@@ -1,2 +1,2 @@
-# ivyhuang.co
+# ivyhuang
 portfolio
